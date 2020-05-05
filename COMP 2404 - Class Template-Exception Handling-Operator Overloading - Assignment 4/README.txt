@@ -1,4 +1,4 @@
-Author: Kareem Tantawy, 101083898
+Author: Kareem Tantawy
 
 Program:
 	User can add and remove students from a list. List is a generic(template) class and can accept
