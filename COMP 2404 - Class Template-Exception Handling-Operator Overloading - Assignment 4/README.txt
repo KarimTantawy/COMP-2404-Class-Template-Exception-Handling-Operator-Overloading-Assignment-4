@@ -29,6 +29,4 @@ Instructions:
 
 Notes:
 	-Everything has been implemented according to the specifications
-	-Excluding one thing in the List class. It is still a singly-linked list
-	 and has not been modified to be a doubly-linked list
 
