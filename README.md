@@ -1,7 +1,7 @@
 # Class Template/Exception Handling/Operator Overloading
 #### SCHOOL PROJECT - COMP 2404 - Winter 2020 Semester
 
-Goal of assignment was to get used to advanced features of C++
+Goal of assignment was to get used to the advanced features of C++.
 
 #### Submission README
 
